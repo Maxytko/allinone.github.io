@@ -1,0 +1,15 @@
+/* GENERAL */
+body{
+	font-family: 'Code Pro', sans-serif;
+	color: White;
+	background: #1A1E1F;	
+}
+@font-face{
+	font-family: 'Code Pro';
+	src: url("../Code Pro Light LC.otf");
+}
+
+
+
+
+
